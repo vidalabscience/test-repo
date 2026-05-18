@@ -1,6 +1,4 @@
-# test-repo
-Test repository for thesis code backup and collaboration within the laboratory.
-# 🧪 Test Repo
+# Test Repo
 
 Welcome to the laboratory test repository.
 
@@ -12,7 +10,7 @@ This space is intended for:
 
 ---
 
-# 🌱 Good Practices
+# Good Practices
 
 - Commit changes frequently
 - Write clear commit messages
@@ -22,7 +20,7 @@ This space is intended for:
 
 ---
 
-# 🌸 Suggested Structure
+# Suggested Structure
 
 ```text
 project/
@@ -34,17 +32,4 @@ project/
 ```
 
 ---
-
-# 🐈 Repository Guardian
-
-```text
- /\_/\\
-( o.o )
- > ^ <
-```
-
-> "Commit early. Commit often."
-
----
-
 Happy coding ✨
